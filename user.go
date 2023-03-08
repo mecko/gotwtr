@@ -25,7 +25,7 @@ const (
 	UserFieldURL             UserField = "url"
 	UserFieldUserName        UserField = "username"
 	UserFieldVerified        UserField = "verified"
-	UserFieldWithHeld        UserField = "withhel"
+	UserFieldWithHeld        UserField = "withheld"
 )
 
 type User struct {
